@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Ville_Kinshasa_Commune",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "INCAL", "description": "Point de rassemblement des nationaux" }, "geometry": { "type": "Point", "coordinates": [ 15.3492677, -4.3522416 ] } },
+{ "type": "Feature", "properties": { "Name": "NZ13", "description": "Zone de sécurité des nationaux numéro 13" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.326509, -4.336773 ], [ 15.325166, -4.341434 ], [ 15.324825, -4.353467 ], [ 15.32091, -4.366356 ], [ 15.320536, -4.369629 ], [ 15.333212, -4.373509 ], [ 15.343993, -4.374817 ], [ 15.348847, -4.378991 ], [ 15.3473754, -4.3758834 ], [ 15.3376766, -4.3577401 ], [ 15.3301199, -4.3423338 ], [ 15.326509, -4.336773 ] ] ] } }
+]
+}

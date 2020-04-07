@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Ville_Kinshasa_Commune",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "NZ9", "description": "Zone de sécurité des nationaux numéro 9", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.292138, -4.348141, 0.0 ], [ 15.290454, -4.351201, 0.0 ], [ 15.287928, -4.359859, 0.0 ], [ 15.296257, -4.363281, 0.0 ], [ 15.305562, -4.365832, 0.0 ], [ 15.310648, -4.350711, 0.0 ], [ 15.307753, -4.352498, 0.0 ], [ 15.306378, -4.352594, 0.0 ], [ 15.303242, -4.351696, 0.0 ], [ 15.292138, -4.348141, 0.0 ] ] ] } },
+{ "type": "Feature", "properties": { "Name": "UNICEF", "description": "Point de rassemblement des nationaux", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 15.2671533, -4.321927, 0.0 ] } }
+]
+}
